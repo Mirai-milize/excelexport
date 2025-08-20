@@ -1,0 +1,38 @@
+{
+    "success": true,
+    "users": [
+            {
+                "no": 0,
+                "id": "01000000000",
+                "name": "홍길동",
+                "groupId": 174,
+                "email": "example@example.com",
+                "status": "active",
+                "mobile": "01000000000",
+                "telephone": "",
+                "birthDate": "2023-12-31T15:00:00.000Z",
+                "sex": 1,
+                "careerHistory": null,
+                "type": null,
+                "positionId": null,
+                "dutyId": null,
+                "avatar": null,
+                "updatedAt": "2025-06-30T23:22:43.000Z",
+                "deleteAt": null,
+                "restoreAt": null,
+                "changePasswordAt": "2025-06-30T23:22:43.000Z",
+                "delayChangePW": 0,
+                "activeLockTime": 0,
+                "lockTime": 5,
+                "kassId": null,
+                "ikenId": null,
+                "ikenNo": null,
+                "endDate": null,
+                "brandCd": null,
+                "branchCd": null,
+                "grade": null,
+                "note": null
+            }
+          
+        ]
+    }
